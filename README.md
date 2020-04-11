@@ -5,7 +5,7 @@
 标签：python、linux、前端、java、自动化测试、测试工具、devops。
 
 <p align="center">
-  <a href="#测试开发Guide"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91Guide-brightgreen" alt="公众号"></a>
+  <a href="#测试开发Guide"><img src="https://img.shields.io/badge/公众号-测试开发Guide-brightgreen" alt="公众号"></a>
   <a href="https://space.bilibili.com/382166537"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4" alt="哔哩哔哩"></a>
   <a href="https://www.zhihu.com/people/nethuangdz"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎"></a>
   <a href="https://me.csdn.net/dzreal93"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
@@ -15,7 +15,7 @@
   <a href="https://my.oschina.net/u/3312441"><img src="https://img.shields.io/badge/OSChina-%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD-green" alt="开源中国"></a>
 </p>
 
-# 前言
+# 前言(善用Ctrl+F)
 
 根据我工作几年来的面试经验，加上之前收集的资料，整理出来350+道字节跳动、阿里、腾讯、百度、快手、美团等大厂常考的面试题。
 
@@ -25,10 +25,8 @@
 
 **面试题后续会第一时间更新在微信公众号上，感兴趣的可以扫码关注**
 
-<p align="center" display="none">
-  <a  href="" alt="banner位置">
-<img src="http://ww1.sinaimg.cn/large/006F2AR3gy1gdpuoikhq7j32060jsdl8.jpg"width="" style="margin: 0 auto;"/>
-  </a >
+<p align="center">
+<img src="http://ww1.sinaimg.cn/large/006F2AR3gy1gdpuoikhq7j32060jsdl8.jpg"width="" style="margin: 0 auto;"/>  
 </p>
 
 ![](http://ww1.sinaimg.cn/large/006F2AR3gy1gdpsdb0u7nj31062nxti1.jpg)
