@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="#测试开发Guide"><img src="https://img.shields.io/badge/公众号-测试开发Guide-brightgreen" alt="公众号"></a>
-  <a href="https://space.bilibili.com/382166537"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4" alt="哔哩哔哩"></a>
+  <a href="https://space.bilibili.com/382166537"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" alt="哔哩哔哩"></a>
   <a href="https://www.zhihu.com/people/nethuangdz"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎"></a>
   <a href="https://me.csdn.net/dzreal93"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
   <a href="https://testerhome.com/GitDzreal93"><img src="https://img.shields.io/badge/testerhome-testerhome-blue" alt="testerhome"></a>
   <a href="https://www.jianshu.com/u/ec56cfd67d3c"><img src="https://img.shields.io/badge/jianshu-简书-critical" alt="简书"></a>
-  <a href="https://juejin.im/user/5921aec3da2f60005d533584"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue" alt="掘金"></a>
-  <a href="https://my.oschina.net/u/3312441"><img src="https://img.shields.io/badge/OSChina-%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD-green" alt="开源中国"></a>
+  <a href="https://juejin.im/user/5921aec3da2f60005d533584"><img src="https://img.shields.io/badge/juejin-掘金-blue" alt="掘金"></a>
+  <a href="https://my.oschina.net/u/3312441"><img src="https://img.shields.io/badge/OSChina-开源中国-green" alt="开源中国"></a>
 </p>
 
 # 前言(善用Ctrl+F)
@@ -26,10 +26,10 @@
 **面试题后续会第一时间更新在微信公众号上，感兴趣的可以扫码关注**
 
 <p align="center">
-<img src="http://ww1.sinaimg.cn/large/006F2AR3gy1gdpuoikhq7j32060jsdl8.jpg"width="" style="margin: 0 auto;"/>  
+<img src="http://tva1.sinaimg.cn/large/006F2AR3gy1gdpuoikhq7j32060jsdl8.jpg"width="" style="margin: 0 auto;"/>  
 </p>
 
-![](http://ww1.sinaimg.cn/large/006F2AR3gy1gdpsdb0u7nj31062nxti1.jpg)
+![](http://tva1.sinaimg.cn/large/006F2AR3gy1gdpsdb0u7nj31062nxti1.jpg)
 
 
 
